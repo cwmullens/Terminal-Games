@@ -1,0 +1,21 @@
+{
+    "easy_word": ["magician", "popular", "refrigerator", "abdicate", "babysitter", "idealistic", "fabulous", "cannibalistic", "ballistic", "television"],
+
+    "easy_phrase": ["a falling knife has no handle", "Is your refrigerator running?", "if you want to go fast, go alone", "if you want to go far, go together",
+    "underpromise and overdeliver", "stop and smell the roses", "the quick brown fox jumps over the lazy dog", "an apple a day keeps the doctor away",
+    "I Did Not Like Getting Capital Letters To Work", "good fences make good neighbors", "one must imagine Sisyphus happy"],
+
+
+    "med_word": ["cyanide", "innate", "opposite", "resplendent", "colloquial", "katabasis", "umbrage", "abrupt"],
+
+    "med_phrase": ["making hymns to the liquor of your laughter", "surprising yet inevitable", "ice cream licking back", "jack of all trades", 
+    "a rolling stone gathers no algae", "Leave the Town, Tinker", "absence makes the heart grow fonder", "bad news travels fast", "eat, drink, and be merry", 
+    "the eighty-twenty rule", "giving a man a fish", "I think therefore I am", "the rain in Spain falls mainly in the plain"],
+
+
+    "hard_word": ["dog", "god", "jazz", "axiom", "yell", "bayou", "kayak", "lithe", "focus", "pop", "ilk", "den"],
+
+    "hard_phrase": ["through tough thorough thought though", "tongue-drive wheelchair", "takes more than it gives", "breathe manually", "herding cats", 
+    "all bark no bite", "live fast die young", "a penny saved is a penny earned", "and shun the frumious Bandersnatch", "seize the day", "turn back now", 
+    "Buffalo buffalo, Buffalo buffalo buffalo, buffalo Buffalo buffalo", "stow away a wasted day"]
+}
