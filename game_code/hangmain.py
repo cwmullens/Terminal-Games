@@ -112,7 +112,7 @@ def choose_word(difficulty, term_hist):
 
     if not settings["words"] and not settings["phrases"]:
         word = random.choice(string.ascii_lowercase)
-        return word
+        return word, None
 
     filepath = Path(__file__).resolve().parent.parent
     wordbank_path = filepath/"word_banks"/"hangman_bank.json"
